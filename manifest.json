@@ -1,0 +1,42 @@
+{
+  "name": "404 movies",
+  "short_name": "404",
+  "description": "Stream unlimited movies and TV series online. Your premium streaming platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ef4444",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://url.bwmxmd.online/Adams.4mbjrppb.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://url.bwmxmd.online/Adams.4mbjrppb.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "video"],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Go to home page"
+    },
+    {
+      "name": "Trending",
+      "url": "/trending",
+      "description": "View trending content"
+    },
+    {
+      "name": "Search",
+      "url": "/search",
+      "description": "Search movies and series"
+    }
+  ]
+}
