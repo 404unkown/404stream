@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#ef4444" />
-    <link rel="icon" href="https://url.bwmxmd.online/Adams.botkcfni.png" type="image/png" />
-    <link rel="apple-touch-icon" href="https://url.bwmxmd.online/Adams.botkcfni.png" />
+    <link rel="icon" href="assets/IMG_20251031_180743_129.jpg" type="image/jpeg" />
+    <link rel="apple-touch-icon" href="assets/IMG_20251031_180743_129.jpg" />
     <link rel="manifest" href="manifest.json" />
     <title>BWMGIFT Stream - Watch Movies & TV Series Online</title>
     <meta name="description" content="Stream unlimited movies and TV series online. Watch the latest releases and trending content on BWMGIFT Stream - Your premium streaming platform." />
@@ -19,17 +19,19 @@
     <meta property="og:title" content="BWMGIFT Stream - Watch Movies & TV Series Online" />
     <meta property="og:description" content="Stream unlimited movies and TV series online. Watch the latest releases and trending content on BWMGIFT Stream." />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://url.bwmxmd.online/Adams.vll8bbzm.jpg" />
+    <meta property="og:image" content="assets/IMG_20251031_180743_129.jpg" />
     <meta property="og:url" content="https://bwmxmd.online" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@ibrahimaitech" />
     <meta name="twitter:title" content="BWMGIFT Stream - Watch Movies & TV Series Online" />
     <meta name="twitter:description" content="Stream unlimited movies and TV series online. Your premium streaming platform." />
-    <meta name="twitter:image" content="https://url.bwmxmd.online/Adams.vll8bbzm.jpg" />
+    <meta name="twitter:image" content="assets/IMG_20251031_180743_129.jpg" />
     <script type="module" crossorigin src="assets/index-jZw8_XyJ.js"></script>
     <link rel="stylesheet" crossorigin href="assets/index-Bn58PW9s.css">
-  <link rel="manifest" href="manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="registerSW.js"></script></head>
+    <link rel="manifest" href="manifest.webmanifest">
+    <script id="vite-plugin-pwa:register-sw" src="registerSW.js"></script>
+  </head>
 
   <body>
     <div id="root"></div>
