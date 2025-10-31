@@ -9,13 +9,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "https://url.bwmxmd.online/Adams.4mbjrppb.jpg",
+      "src": "assets/IMG_20251031_180743_129.jpg",
       "sizes": "192x192",
       "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "https://url.bwmxmd.online/Adams.4mbjrppb.jpg",
+      "src": "assets/IMG_20251031_180743_129.jpg",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
